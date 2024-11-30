@@ -2,15 +2,15 @@
 // =======================================================[ Server Info ]======================================================
 // ============================================================================================================================
 
-#define SERVER_NAME     "My Deathmatch Server"
+#define SERVER_NAME     "TDeathmatch"
 #define SERVER_WEBSITE  "www.example.com"
-#define SERVER_MAPNAME  "San Fierro"
-#define SERVER_GAMEMODE "Ian's Deathmatch"
+#define SERVER_MAPNAME  "San Andreas"
+#define SERVER_GAMEMODE "vTDM"
 
 #define MYSQL_HOST      "localhost"
 #define MYSQL_USER      "root"
 #define MYSQL_PASSWORD  ""
-#define MYSQL_DATABASE  "deathmatch"
+#define MYSQL_DATABASE  "vtdm" // sesuaiin aja
 
 // ============================================================================================================================
 // ========================================================[ Includes ]========================================================
