@@ -1,1 +1,1 @@
-# SA-MP-Tianmetal-Deathmatch
+# Deathmatch
